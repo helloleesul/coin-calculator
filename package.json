@@ -1,5 +1,5 @@
 {
-  "name": "coin-tracker",
+  "name": "coin-calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
